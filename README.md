@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomwcodes
-- 👀 I’m interested in developing as a full-stack developer. 
-- 🌱 I’m currently learning CSS + HTML. 
+- 👀 I’m a full-stack developer. 
+- 🌱 I’m currently working on JS projects. 
 - 📫 Reach me via tomwcodes@gmail.com
 
 <!---
